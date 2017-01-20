@@ -11,6 +11,7 @@
 		"EditorConfig",
 		"FileBrowser",
 		"FileDiffs",
+		"FileManager",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
