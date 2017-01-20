@@ -1,0 +1,20 @@
+[
+    { "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+    {
+      "keys": ["enter"],
+      "command": "dired_select", "args": {"and_close": true},
+      "context": [
+        { "key": "selector", "operator": "equal", "operand": "text.dired" },
+        { "key": "setting.dired_rename_mode", "operand": false }
+      ]
+    },
+    {
+      "keys": ["f1"],
+      "command": "dired",
+      "args": {
+        "immediate": true,
+        "project": true
+      }
+    }
+]

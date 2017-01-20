@@ -1,7 +1,9 @@
 Backup
 Cache
 Index
-Data/
+Data/Backup
+Data/Cache
+Data/Index
 Local
 *.cache
 Packages/User/Package Control.last-run
