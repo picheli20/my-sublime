@@ -6,6 +6,7 @@ Data/Cache
 Data/Index
 Local
 *.cache
+Data/Packages/User/Package Control.last-run
 Packages/User/Package Control.last-run
 Packages/User/Package Control.system-ca-bundle
 Microsoft.VC90.CRT.manifest
