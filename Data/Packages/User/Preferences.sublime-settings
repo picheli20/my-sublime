@@ -4,6 +4,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
+		"apps",
 		".DS_Store",
 		".gitkeep",
 		"dump.rdb",
@@ -13,7 +14,10 @@
 	"folder_exclude_patterns":
 	[
 		".bundle",
+		"apps",
 		".git",
+		".tmp",
+		".svn",
 		".sass-cache",
 		".yardoc",
 		"coverage",

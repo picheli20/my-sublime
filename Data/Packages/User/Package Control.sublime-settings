@@ -12,7 +12,6 @@
 		"FileBrowser",
 		"FileDiffs",
 		"FileManager",
-		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
 		"JavaScript Snippets",
@@ -21,9 +20,15 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"sublimelint",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SVN",
 		"Terminal",
 		"Theme - DC",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"TypeScript"
 	]
 }
