@@ -7,6 +7,7 @@
 	[
 		"AngularJS",
 		"AngularJS Snippets",
+		"Babel",
 		"ColorPicker",
 		"EditorConfig",
 		"FileBrowser",
@@ -16,8 +17,13 @@
 		"JavaScript Completions",
 		"JavaScript Snippets",
 		"JsFormat",
+		"JSX",
 		"Markdown Preview",
 		"Package Control",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"ReactJS Snippets",
 		"Sass",
 		"SideBarEnhancements",
 		"sublimelint",
@@ -29,6 +35,7 @@
 		"Terminal",
 		"Theme - DC",
 		"Tomorrow Color Schemes",
-		"TypeScript"
+		"TypeScript",
+		"Zeus"
 	]
 }
